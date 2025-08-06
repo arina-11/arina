@@ -1,5 +1,8 @@
 guess_me=7
-number=1
+'''
+hello
+'''
+number=0
 while number<guess_me:
     print('too low')
     number+=1
